@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1eb7903f.css",
+    "main.js": "/static/js/main.78900620.js",
+    "static/media/pngegg.png": "/static/media/pngegg.f6ae34b11679b9a2a438.png",
+    "static/media/scroll.png": "/static/media/scroll.35b9cdf9b0ad35d25b8c.png",
+    "static/media/Daco_4207497.png": "/static/media/Daco_4207497.142317ccd06dfefdbc18.png",
+    "static/media/owl2.png": "/static/media/owl2.f813c3831759240ab960.png",
+    "static/media/1659875.jpg": "/static/media/1659875.8c99f9ef18827ee2c0cc.jpg",
+    "static/media/waxseal.png": "/static/media/waxseal.4c8cfaa4da7f012b927d.png",
+    "static/media/0607d1db_hq.jpeg": "/static/media/6b9d3b944ecc55bfc54406d2de50cde80607d1db_hq.005c0649b15a27234599.jpeg",
+    "static/media/ravenclaw.png": "/static/media/ravenclaw.66d73611c9fa42b7ad3d.png",
+    "static/media/gryffindor.png": "/static/media/gryffindor.f640dd2cb75afc2cab54.png",
+    "static/media/hufflepuff.png": "/static/media/hufflepuff.649246e5663dd8539584.png",
+    "static/media/slytherin.png": "/static/media/slytherin.bea16cb607acdc4066a8.png",
+    "static/media/VINERITC.TTF": "/static/media/VINERITC.29ef7ca578b09335c8b9.TTF",
+    "static/media/10999054_2-removebg-preview.png": "/static/media/10999054_2-removebg-preview.c02e80eb86d2ca2ab978.png",
+    "index.html": "/index.html",
+    "main.1eb7903f.css.map": "/static/css/main.1eb7903f.css.map",
+    "main.78900620.js.map": "/static/js/main.78900620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb7903f.css",
+    "static/js/main.78900620.js"
+  ]
+}
