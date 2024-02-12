@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/rsvp-list"
+  to = "/rsvp-list.html"
   status = 200
