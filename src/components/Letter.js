@@ -2,8 +2,8 @@ import React, { useEffect, useState } from "react";
 
 import RSVP from "./RSVP.js";
 
-import hogwartsLogo from "../images/pngegg.png";
-import rsvpOwl from "../images/owl2.png";
+import hogwartsLogo from "../images/pngegg.webp";
+import rsvpOwl from "../images/owl2.webp";
 
 import "./Letter.css";
 

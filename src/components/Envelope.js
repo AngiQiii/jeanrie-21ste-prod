@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-import logo from "../images/10999054_2-removebg-preview.png";
-import waxseal from "../images/waxseal.png";
+import logo from "../images/10999054_2-removebg-preview.webp";
+import waxseal from "../images/waxseal.webp";
 
 import Letter from "./Letter.js";
 

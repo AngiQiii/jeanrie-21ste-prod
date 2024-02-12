@@ -2,10 +2,10 @@ import React, { Fragment, useCallback, useState } from "react";
 
 import sortingHat from "../images/Daco_4207497.png";
 
-import gryffindor from "../images/houses/gryffindor.png";
-import hufflepuff from "../images/houses/hufflepuff.png";
-import ravenclaw from "../images/houses/ravenclaw.png";
-import slytherin from "../images/houses/slytherin.png";
+import gryffindor from "../images/houses/gryffindor.webp";
+import hufflepuff from "../images/houses/hufflepuff.webp";
+import ravenclaw from "../images/houses/ravenclaw.webp";
+import slytherin from "../images/houses/slytherin.webp";
 
 import "./RSVP.css";
 
