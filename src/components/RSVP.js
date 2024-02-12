@@ -1,7 +1,6 @@
 import React, { Fragment, useCallback, useState } from "react";
 
-import sortingHat from "../images/Daco_4207497.png";
-
+import sortingHat from "../images/Daco_4207497.webp";
 import gryffindor from "../images/houses/gryffindor.webp";
 import hufflepuff from "../images/houses/hufflepuff.webp";
 import ravenclaw from "../images/houses/ravenclaw.webp";
