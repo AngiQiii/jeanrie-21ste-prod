@@ -1,0 +1,38 @@
+.list-background {
+  background-image: url(../images/scroll.png);
+  background-repeat: no-repeat;
+  background-size: 110rem 68rem;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  max-width: 100%;
+  overflow: auto;
+}
+
+.rsvp-table {
+  position: absolute;
+  top: 15%;
+  left: 13%;
+  font-size: 1.5rem;
+  color: rgb(67, 51, 34);
+  width: 84rem;
+}
+
+.rsvp-table th,
+.rsvp-table td {
+  padding: 5px;
+  text-align: center;
+}
+
+.rsvp-table td {
+  font-size: 1rem;
+}
+
+.total-guests {
+  font-size: 2rem;
+  font-weight: bolder;
+  position: absolute;
+  bottom: 6%;
+  left: 15%;
+}

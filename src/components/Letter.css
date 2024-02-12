@@ -1,0 +1,213 @@
+.letter {
+  background-color: rgb(249, 240, 217);
+  width: 36rem;
+  height: 63rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 2rem;
+  font-family: "viner-hand-itc-regular", sans-serif;
+  color: rgb(67, 51, 34);
+  max-height: 100%;
+  overflow: auto;
+}
+
+.letter-logo {
+  width: 9rem;
+  height: 9rem;
+  display: block;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+.letter-heading {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.letter-info {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.rsvp {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tobring {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4rem;
+}
+
+.letter-ending {
+  font-size: 1.2rem;
+  font-family: "viner-hand-itc-regular", sans-serif;
+  margin-bottom: 2rem;
+}
+
+.signed {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.owl-rsvp {
+  width: 8rem;
+  height: 8rem;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.owl-img {
+  width: 100%;
+  height: 100%;
+}
+
+.pryse-list {
+  list-style: none;
+  text-align: center;
+}
+
+.already-RSVP {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+/* *******MOBILE RESPONSE******** */
+
+/* 900 */
+@media (max-width: 900px) {
+  .letter {
+    width: 30rem;
+  }
+
+  .letter-logo {
+    width: 7.5rem;
+    height: 7.5rem;
+  }
+
+  .letter-heading {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .letter-info,
+  .rsvp,
+  .tobring,
+  .letter-ending {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .wrapper {
+    margin-top: 3rem;
+  }
+
+  .owl-rsvp {
+    width: 7.5rem;
+    height: 7.5rem;
+  }
+}
+
+/* 600 */
+@media (max-width: 600px) {
+  .letter {
+    width: 24rem;
+  }
+
+  .letter-logo {
+    width: 7rem;
+    height: 7rem;
+  }
+
+  .letter-heading {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .letter-info,
+  .rsvp,
+  .tobring,
+  .letter-ending {
+    margin-bottom: 1rem;
+  }
+
+  .wrapper {
+    margin-top: 2rem;
+    flex-direction: column;
+    row-gap: 1rem;
+  }
+
+  .owl-rsvp {
+    width: 7rem;
+    height: 7rem;
+    align-self: center;
+  }
+
+  .signed {
+    font-size: 1.4rem;
+  }
+}
+
+/* 500 */
+@media (max-width: 500px) {
+  .letter {
+    width: 20rem;
+  }
+
+  .letter-logo {
+    width: 6rem;
+    height: 6rem;
+  }
+
+  .letter-heading {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .letter-info,
+  .rsvp,
+  .tobring,
+  .letter-ending {
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .wrapper {
+    margin-top: 1rem;
+    flex-direction: column;
+    row-gap: 1rem;
+  }
+
+  .signed {
+    font-size: 1rem;
+  }
+
+  .owl-rsvp {
+    width: 6rem;
+    height: 6rem;
+  }
+}
+
+/* 400 */
+@media (max-width: 400px) {
+  .letter {
+    width: 100%;
+  }
+
+  .pryse-list {
+    margin-top: 1.5rem;
+  }
+}
