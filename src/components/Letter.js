@@ -51,7 +51,7 @@ const Letter = function () {
         </p>
         <ul className="pryse-list">
           Prices:
-          <li>Kids 13 years and adults R250 p/p</li>
+          <li>Kids 13+ years and adults R250 p/p</li>
           <li>Kids 1-6 years R50 p/p</li>
           <li>Kids 7-12 years R125 p/p</li>
         </ul>
